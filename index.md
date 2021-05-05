@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Jiayu Qi
 
-You can use the [editor on GitHub](https://github.com/jiayuq925/Jiayu-Qi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website.
+My name is Qi Jiayu, and I am a junior in architecture majoring in Wenzhou-Kean University. 
+I come from Jinhua, Zhejiang, China. In my spare time, I like to travel around the world. In addition, I am interested in painting and violin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
